@@ -1,6 +1,6 @@
 -i https://pypi.org/simple
 
-absl-py==1.2.0; python_version >= '3.6'
+absl-py==1.2.0; python_version >= '3.8'
 
 altair==4.2.0
 
