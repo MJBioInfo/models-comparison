@@ -108,7 +108,7 @@ networkx==2.8.6
 
 
 
-numpy==1.23.2
+numpy==1.19
 
 oauthlib==3.2.0; python_version >= '3.6'
 
@@ -182,7 +182,7 @@ scikit-image==0.19.3
 
 scikit-learn==1.1.2
 
-scipy==1.11.0
+scipy==1.9.0
 
 seaborn==0.11.2
 
